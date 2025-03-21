@@ -1,4 +1,3 @@
-
 ![](assets/demo/1.png)
 ![](assets/demo/2.png)
 
@@ -46,6 +45,14 @@ python run.py
 - Make a circle gesture with your hand to switch between tattoo styles
 - Press 'q' to quit the application
 
+### Contact
+
+If you have any questions or suggestions, feel free to contact me:
+
+- WeChat: znzatop
+
+![WeChat](https://github.com/wangqiqi/interesting_assets/blob/main/images/wechat.jpg)
+
 ### License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
@@ -91,6 +98,14 @@ python run.py
 
 - 用手做圆形手势可以切换纹身样式
 - 按'q'键退出应用
+
+### 联系方式
+
+如有问题或建议，欢迎通过以下方式联系：
+
+- 微信：znzatop
+
+![微信](https://github.com/wangqiqi/interesting_assets/blob/main/images/wechat.jpg)
 
 ### 许可证
 
