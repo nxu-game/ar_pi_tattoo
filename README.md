@@ -1,5 +1,5 @@
-![](assets/demo/1.png)
-![](assets/demo/2.png)
+![AR Pi Tattoo](https://github.com/wangqiqi/interesting_assets/blob/main/images/ar_pi_1.png)
+![AR Pi Tattoo](https://github.com/wangqiqi/interesting_assets/blob/main/images/ar_pi_2.png)
 
 # AR Pi Tattoo | AR π纹身
 
