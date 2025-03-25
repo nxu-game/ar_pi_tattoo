@@ -1,5 +1,5 @@
-![AR Pi Tattoo](https://github.com/wangqiqi/interesting_assets/blob/main/images/ar_pi_1.png)
-![AR Pi Tattoo](https://github.com/wangqiqi/interesting_assets/blob/main/images/ar_pi_2.png)
+![AR Pi Tattoo](https://github.com/wangqiqi/interesting_assets/raw/main/images/ar_pi_1.png)
+![AR Pi Tattoo](https://github.com/wangqiqi/interesting_assets/raw/main/images/ar_pi_2.png)
 
 # AR Pi Tattoo | AR π纹身
 
@@ -51,7 +51,7 @@ If you have any questions or suggestions, feel free to contact me:
 
 - WeChat: znzatop
 
-![WeChat](https://github.com/wangqiqi/interesting_assets/blob/main/images/wechat.jpg)
+![WeChat](https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg)
 
 ### License
 
@@ -105,7 +105,7 @@ python run.py
 
 - 微信：znzatop
 
-![微信](https://github.com/wangqiqi/interesting_assets/blob/main/images/wechat.jpg)
+![微信](https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg)
 
 ### 许可证
 
