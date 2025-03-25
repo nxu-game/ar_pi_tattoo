@@ -57,6 +57,10 @@ If you have any questions or suggestions, feel free to contact me:
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
+### More Projects
+
+更多有趣的项目请见：https://github.com/wangqiqi/interesting_assets.git
+
 ---
 
 <a name="中文"></a>
@@ -109,4 +113,8 @@ python run.py
 
 ### 许可证
 
-本项目采用GNU通用公共许可证v3.0 - 详情请参阅[LICENSE](LICENSE)文件。 
+本项目采用GNU通用公共许可证v3.0 - 详情请参阅[LICENSE](LICENSE)文件。
+
+### 更多项目
+
+更多有趣的项目请见：https://github.com/wangqiqi/interesting_assets.git 
