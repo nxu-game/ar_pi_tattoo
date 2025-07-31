@@ -1,5 +1,5 @@
-![AR Pi Tattoo](https://github.com/wangqiqi/interesting_assets/raw/main/images/ar_pi_1.png)
-![AR Pi Tattoo](https://github.com/wangqiqi/interesting_assets/raw/main/images/ar_pi_2.png)
+![AR Pi Tattoo](https://github.com/nxu-game/interesting_assets/raw/main/images/ar_pi_1.png)
+![AR Pi Tattoo](https://github.com/nxu-game/interesting_assets/raw/main/images/ar_pi_2.png)
 
 # AR Pi Tattoo | AR π纹身
 
@@ -29,7 +29,7 @@ An augmented reality application that projects a virtual π symbol tattoo onto t
 
 ```bash
 # Clone the repository
-git clone https://github.com/wangqiqi/ar_pi_tattoo.git
+git clone https://github.com/nxu-game/ar_pi_tattoo.git
 cd ar_pi_tattoo
 
 # Install dependencies
@@ -51,7 +51,7 @@ If you have any questions or suggestions, feel free to contact me:
 
 - WeChat: znzatop
 
-![WeChat](https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg)
+![WeChat](https://github.com/nxu-game/interesting_assets/raw/main/images/wechat.jpg)
 
 ### License
 
@@ -59,7 +59,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ### More Projects
 
-更多有趣的项目请见：https://github.com/wangqiqi/interesting_assets.git
+更多有趣的项目请见：https://github.com/nxu-game/interesting_assets.git
 
 ---
 
@@ -87,7 +87,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ```bash
 # 克隆仓库
-git clone https://github.com/wangqiqi/ar_pi_tattoo.git
+git clone https://github.com/nxu-game/ar_pi_tattoo.git
 cd ar_pi_tattoo
 
 # 安装依赖
@@ -109,7 +109,7 @@ python run.py
 
 - 微信：znzatop
 
-![微信](https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg)
+![微信](https://github.com/nxu-game/interesting_assets/raw/main/images/wechat.jpg)
 
 ### 许可证
 
@@ -117,4 +117,4 @@ python run.py
 
 ### 更多项目
 
-更多有趣的项目请见：https://github.com/wangqiqi/interesting_assets.git 
+更多有趣的项目请见：https://github.com/nxu-game/interesting_assets.git 
